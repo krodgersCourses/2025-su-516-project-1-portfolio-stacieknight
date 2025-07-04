@@ -1,6 +1,38 @@
 /* A handy list of color names: https://www.w3schools.com/colors/colors_names.asp */
 
 body {
-    background-color:aquamarine
+    background-color:indigo;
+    color:honeydew;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    text-align: left;
 }
+#main-title {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  } 
+
+footer {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    color: black;
+  }
+
+#table {
+    margin: 20px auto;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    align-items: center;
+  }
+  
+td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+  }
+  
 
