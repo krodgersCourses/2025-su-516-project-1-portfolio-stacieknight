@@ -44,6 +44,7 @@ td, th {
   }
 
   .list {
+    padding-top: 40px;
     text-align: left;
     margin: 40 auto;
     
