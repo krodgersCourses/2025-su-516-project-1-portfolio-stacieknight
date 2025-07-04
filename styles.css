@@ -26,13 +26,21 @@ footer {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
-    align-items: center;
+    align-self: center;
   }
   
 td, th {
     border: 1px solid black;
     text-align: center;
     padding: 8px;
+  }
+
+  .table-footer {
+    text-align: left;
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    
   }
   
 
