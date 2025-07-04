@@ -5,7 +5,7 @@ body {
     color:honeydew;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
-    text-align: left;
+    text-align: center;
 }
 #main-title {
     background-color: lightblue;
@@ -40,6 +40,12 @@ td, th {
     background-color: lightblue;
     color: black;
     padding: 20px;
+    
+  }
+
+  .list {
+    text-align: left;
+    margin: 40 auto;
     
   }
   
